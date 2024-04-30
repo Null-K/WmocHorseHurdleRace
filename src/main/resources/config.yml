@@ -1,0 +1,31 @@
+#默认不用改，按着服里写的
+
+#生成的马匹属性是锁定的，毛色随机
+
+#指令是/startrace <玩家>
+
+#出生点坐标
+start_point:
+  x: 255
+  y: 64
+  z: -735
+#竞技场1
+arena_corner1:
+  x: 259
+  y: 64
+  z: -731
+#竞技场2
+arena_corner2:
+  x: 250
+  y: 73
+  z: -851
+#终点1
+finish_area_corner1:
+  x: 259
+  y: 64
+  z: -841
+#终点2
+finish_area_corner2:
+  x: 250
+  y: 73
+  z: -851
